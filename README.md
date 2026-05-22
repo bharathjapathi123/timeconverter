@@ -18,4 +18,4 @@ Learning Outcomes
 Understanding DOM manipulation
 Working with JavaScript events
 Performing mathematical calculations using JavaScript
-Building responsive layouts using Bootstrap
+Building responsive layouts using Bootstrap....
